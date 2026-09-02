@@ -6,15 +6,13 @@
 
 <p>Changing a strategy or mental model once took years of painful trial and error.<br>Often, you needed an experienced person who had the time and patience to teach.<br>AI can now help you examine and revise both, sooner and at far lower cost.</p>
 
-### [Try Online →](https://rsi-yourself.moyi-aw-d.chatgpt.site)
+### [Try Online →](https://rsi-yourself.moyi-aw-d.chatgpt.site/en)
 
 </div>
 
 **Read this as an invitation: recursively improve yourself.**
 
 Improve how you act and understand the world. Then improve how you improve.
-
-In ordinary RSI, a model improves the process that improves it. Here, you are the model.
 
 People have always changed their strategies and mental models. What made it hard was finding enough evidence and making sense of it. You either learned through **years of failure**, or found someone experienced who had the time and patience to teach you.
 
@@ -59,7 +57,7 @@ The conversation suggests two revisions to consider. **Strategy:** when a headli
 
 ## Try Online
 
-[Open RSI Yourself](https://rsi-yourself.moyi-aw-d.chatgpt.site) and start with a recurring problem, a point of confusion, or a reaction you cannot explain. Say what happened, what worries you, and what you currently think. Do not sort it into the four layers first:
+[Open RSI Yourself in English](https://rsi-yourself.moyi-aw-d.chatgpt.site/en) and start with a recurring problem, a point of confusion, or a reaction you cannot explain. Say what happened, what worries you, and what you currently think. Do not sort it into the four layers first:
 
 > "This happened. Here is what worries me. My guess is..."
 
