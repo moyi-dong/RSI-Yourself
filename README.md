@@ -6,7 +6,7 @@
 
 <p>Improve how you act and understand the world. Then improve how you improve.</p>
 
-**Changing a strategy or mental model once took years of painful trial and error.<br>Often, you needed an experienced person who had the time and patience to teach.<br>AI can now help you examine and revise both, sooner and at far lower cost.**
+<p>Changing a strategy or mental model once took years of painful trial and error.<br>Often, you needed an experienced person who had the time and patience to teach.<br>AI can now help you examine and revise both, sooner and at far lower cost.</p>
 
 ### [Try Online →](https://rsi-yourself.moyi-aw-d.chatgpt.site)
 
