@@ -4,8 +4,6 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-<p>Improve how you act and understand the world. Then improve how you improve.</p>
-
 <p>Changing a strategy or mental model once took years of painful trial and error.<br>Often, you needed an experienced person who had the time and patience to teach.<br>AI can now help you examine and revise both, sooner and at far lower cost.</p>
 
 ### [Try Online →](https://rsi-yourself.moyi-aw-d.chatgpt.site)
@@ -13,6 +11,8 @@
 </div>
 
 **Read this as an invitation: recursively improve yourself.**
+
+Improve how you act and understand the world. Then improve how you improve.
 
 In ordinary RSI, a model improves the process that improves it. Here, you are the model.
 
