@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.bundle
+
+# Local project instructions contain machine-specific paths.
+AGENTS.md
+
+# The hosted trial is maintained as private source code.
+/web/
