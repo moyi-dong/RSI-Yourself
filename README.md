@@ -57,7 +57,7 @@ The conversation suggests two revisions to consider. **Strategy:** when a headli
 
 ## Try Online
 
-[Open RSI Yourself in English](https://rsi-yourself.moyi-aw-d.chatgpt.site/en) and start with a recurring problem, a point of confusion, or a reaction you cannot explain. Say what happened, what worries you, and what you currently think. Do not sort it into the four layers first:
+[Open RSI Yourself](https://rsi-yourself.moyi-aw-d.chatgpt.site/en) and start with a recurring problem, a point of confusion, or a reaction you cannot explain. Say what happened, what worries you, and what you currently think. Do not sort it into the four layers first:
 
 > "This happened. Here is what worries me. My guess is..."
 
