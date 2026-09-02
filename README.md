@@ -4,15 +4,15 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-### Improve how you act and understand the world. Then improve how you improve.
+<p>Improve how you act and understand the world. Then improve how you improve.</p>
 
 **Changing a strategy or mental model once took years of painful trial and error.<br>Often, you needed an experienced person who had the time and patience to teach.<br>AI can now help you examine and revise both, sooner and at far lower cost.**
 
-## [Try it on the web →](https://rsi-yourself.moyi-aw-d.chatgpt.site)
+### [Try Online →](https://rsi-yourself.moyi-aw-d.chatgpt.site)
 
 </div>
 
-Read this as an invitation: recursively improve yourself.
+**Read this as an invitation: recursively improve yourself.**
 
 In ordinary RSI, a model improves the process that improves it. Here, you are the model.
 
@@ -57,7 +57,7 @@ The labels help locate the change. They do not need to shape the conversation. I
 
 The conversation suggests two revisions to consider. **Strategy:** when a headline feels urgent, use AI to separate what happened, what trend it may support, and what the author predicts; then ask what waiting three days would actually cost you. **Model:** a real fact can support a trend without making the predicted ending imminent, and an important change rarely depends on catching a single post. You decide whether either revision fits your experience well enough to keep.
 
-## Try it on the web
+## Try Online
 
 [Open RSI Yourself](https://rsi-yourself.moyi-aw-d.chatgpt.site) and start with a recurring problem, a point of confusion, or a reaction you cannot explain. Say what happened, what worries you, and what you currently think. Do not sort it into the four layers first:
 
