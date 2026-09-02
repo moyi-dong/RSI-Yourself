@@ -8,7 +8,7 @@
 
 **Changing a strategy or mental model once took years of painful trial and error.<br>Often, you needed an experienced person who had the time and patience to teach.<br>AI can now help you examine and revise both, sooner and at far lower cost.**
 
-[Explore the map](#one-map-two-languages) · [Try the public demo](https://rsi-yourself.moyi-aw-d.chatgpt.site)
+## [Try it on the web →](https://rsi-yourself.moyi-aw-d.chatgpt.site)
 
 </div>
 
@@ -57,9 +57,9 @@ The labels help locate the change. They do not need to shape the conversation. I
 
 The conversation suggests two revisions to consider. **Strategy:** when a headline feels urgent, use AI to separate what happened, what trend it may support, and what the author predicts; then ask what waiting three days would actually cost you. **Model:** a real fact can support a trend without making the predicted ending imminent, and an important change rarely depends on catching a single post. You decide whether either revision fits your experience well enough to keep.
 
-## Try it
+## Try it on the web
 
-[Open the public Chinese demo](https://rsi-yourself.moyi-aw-d.chatgpt.site). Start with a recurring problem, a point of confusion, or a reaction you cannot explain. Say what happened, what worries you, and what you currently think. Do not sort it into the four layers first:
+[Open RSI Yourself](https://rsi-yourself.moyi-aw-d.chatgpt.site) and start with a recurring problem, a point of confusion, or a reaction you cannot explain. Say what happened, what worries you, and what you currently think. Do not sort it into the four layers first:
 
 > "This happened. Here is what worries me. My guess is..."
 

@@ -8,7 +8,7 @@
 
 **改变一种策略或心智模型，过去往往要靠多年痛苦的试错。<br>有时还得遇到一个真正有经验、又愿意花时间教你的人。<br>AI 现在可以更早、更低成本地帮助你检查和修正它们。**
 
-[理解这张图](#一张图两套语言) · [在线试用](https://rsi-yourself.moyi-aw-d.chatgpt.site)
+## [在线试用 →](https://rsi-yourself.moyi-aw-d.chatgpt.site)
 
 </div>
 
